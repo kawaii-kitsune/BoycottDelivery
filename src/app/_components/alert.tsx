@@ -29,12 +29,12 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              Μην Πατήσεις {" "}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href="https://www.tiktok.com/@diakoreftis/video/7219253715784486170?lang=el-GR"
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                εδώ
               </a>
               .
             </>

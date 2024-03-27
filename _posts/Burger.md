@@ -4,7 +4,7 @@ excerpt: "Ένας εκρηκτικά νόστιμος συνδυασμός απ
 coverImage: "/assets/blog/burger/cover.jpg"
 date: "2024-03-26T05:35:07.322Z"
 author:
-  name: Μπάμπης Κολοκούρης
+  name: Εγώ
   picture: "/assets/blog/authors/babis.png"
 ogImage:
   url: "/assets/blog/burger/cover.jpg"

@@ -4,7 +4,7 @@ excerpt: "Μια γευστική εμπειρία από την ανατολί�
 coverImage: "/assets/blog/CurryChicken/CurryChicken.jpg"
 date: "2024-03-26T05:35:07.322Z"
 author:
-  name: Μπάμπης Κολοκούρης
+  name: Εγώ
   picture: "/assets/blog/authors/babis.png"
 ogImage:
   url: "/path/to/og/image.jpg"

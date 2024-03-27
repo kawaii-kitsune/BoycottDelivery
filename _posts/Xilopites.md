@@ -4,7 +4,7 @@ excerpt: "Ένα πεντανόστιμο πιάτο που θα σας ενθο
 coverImage: "/assets/blog/xilopites/xilopites.jpg"
 date: "2024-03-26T05:35:07.322Z"
 author:
-  name: Μπάμπης Κολοκούρης
+  name: Εγώ
   picture: "/assets/blog/authors/babis.png"
 ogImage:
   url: "/path/to/og/image.jpg"

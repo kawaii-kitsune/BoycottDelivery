@@ -31,7 +31,7 @@ const Alert = ({ preview }: Props) => {
             <>
               Μην Πατήσεις {" "}
               <a
-                href="https://www.tiktok.com/@diakoreftis/video/7219253715784486170?lang=el-GR"
+                href="https://www.tiktok.com/@iganokabamaru1?lang=el-GR"
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
                 εδώ

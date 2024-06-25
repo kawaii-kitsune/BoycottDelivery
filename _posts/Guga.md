@@ -1,11 +1,11 @@
 ---
 title: "Guga’s Burger αλλά Ελληνικά"
 excerpt: "Ο φίλος ο Guga λέει ότι είναι πολύ καλό και οτί του άλλαξε τη ζωή. Οπότε πάρε ένα απλοποιημένο."
-coverImage: "/assets/blog/CurryChicken/CurryChicken.jpg"
+coverImage: "/assets/blog/guga/z0jco6jjp2j81.jpg"
 date: "2024-06-25T05:35:07.322Z"
 author:
   name: Εγώ
-  picture: "/assets/blog/guga/z0jco6jjp2j81.jpg"
+  picture: "/assets/blog/authors/babis.png"
 ogImage:
   url: "/path/to/og/image.jpg"
 ---
